@@ -65,7 +65,7 @@ function init() {
     console.log("I'm here")
     writeToFile("README.md",generateMarkdown({...answers}))
 })
-
+// whats going on
 }
 
 // Function call to initialize app
