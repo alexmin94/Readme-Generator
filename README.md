@@ -12,24 +12,21 @@
 
 
   ## Installation
-ncdo
+  To install dependencies, run:
+  ```
+  npm i
+  ```
 
   ## Usage
-iocnd
+  In order to run this program, input 'node index' into terminal
 
-## Contributing
-no
+  ## Contributing
+  No contributions needed
 
-## Questions
-no
-contact me at kdlfj
-check out the rest of my work [dfjoidj](https://github.com/dfjoidj)
+  ## Questions
+  If you have any question, feel free to contact me directly at aminyakov94@gmail.com
+  or check out the rest of my work at [alexmin94](https://github.com/alexmin94) 
 
-
-
-
-
-
-  ##license
+  ## License
   
   My project is licensed with MIT license
