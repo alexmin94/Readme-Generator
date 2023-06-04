@@ -1,4 +1,4 @@
-# jioj
+# README Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Table of Contents
   - [Description](#description)
@@ -17,10 +17,10 @@ ncdo
   ## Usage
 iocnd
 
-##contributing
+## Contributing
 no
 
-##questions
+## Questions
 no
 contact me at kdlfj
 check out the rest of my work [dfjoidj](https://github.com/dfjoidj)
