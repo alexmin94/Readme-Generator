@@ -8,7 +8,8 @@
   - [License](#license)
 
   ## Description
-  lkjo
+  This project generates a comprehensive README file based on user input. 
+  Once the user inputs the command, it asks for the Title of the application, a short Description, How the app is used, Instllations,     Contributors. It will then ask the user for their Email Address and their GitHub User Name. The last request will be if the user has     any Questions along with the License if there is one to be provided.
 
 
   ## Installation
